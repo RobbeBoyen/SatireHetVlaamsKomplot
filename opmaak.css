@@ -1,0 +1,112 @@
+body{
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FFFF;
+}
+
+.celTekst{
+    width: 650px;
+    font-size: large;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.Afbeelding{
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.afbeeldingLightbox{
+    width: 225px;
+}
+
+.myButton {
+	background-color:#44c767;
+	border-radius:42px;
+	border:3px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:26px 76px;
+    text-decoration:none;
+}
+.myButton:hover {
+	background-color:#18ab29;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.celLightbox{
+    width: 325px;
+    align-items: center;
+    padding-bottom: 5px;
+}
+
+#titelDIV{
+    position: relative;
+    width: 1300px;
+    height: 100px;
+    background-color: #294A3F;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#menuDIV{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+    height: 100px;
+    background-color: #72BEAE;
+    align-content: center;
+    text-align: center;
+}
+
+#inhoudDIV{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+    height: 800px;
+    background-color: #FAF3E2;
+    overflow: auto;
+}
+
+#voetDIV{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+    height: 100px;
+    background-color: #634435;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#tekstIntro{
+    width: 1300;
+    font-size: 21px;
+    margin-left: 20px;
+}
+
+#tekstDisclaimer{
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    vertical-align: center;
+    align-items: center;
+    font-size: 15px;
+}
+
+#tabelPersonages{
+    padding-top: 20px;
+    padding-left: 6%;
+    padding-right: 1%;
+}
